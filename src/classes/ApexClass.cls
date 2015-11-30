@@ -10,7 +10,7 @@ public class ApexClass
 		int3=i1+i2;
 		system.debug('int3='+int3);
 		//return null;
-	
+	system.debug('welcome to apex');
 	}
 	
 	
